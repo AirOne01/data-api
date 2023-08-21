@@ -1,0 +1,7 @@
+name: data-api
+version: 0.0.1
+main: net.airone01.dataApi.DataApi
+description: Library for custom block creation and manipulation
+author: AirOne01
+website: https://papermc.io
+api-version: '1.20'
